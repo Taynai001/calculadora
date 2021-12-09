@@ -16,13 +16,14 @@ print("\n")
 print(" 1. HALLAR EL VOLUMEN (1)")
 print("\n")
 
-n = float(input("introduca el numero"))
+n = float(input("introduca el numero: "))
 
 if n == 1:
+    print("<---------------------------------------------------->")
     print("\n")
     print("K = 'kelvin'")
     print("T = 'temperatura'")
     print("C = 'celcius'")
     print("\n")
-    print("\t ---> Ley de Charles: Si la temperatura subo el volumen sube y viceversa")
+    print("\t -> Ley de Charles: Si la temperatura subo el volumen sube y viceversa")
     print("")
