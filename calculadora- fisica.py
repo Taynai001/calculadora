@@ -42,4 +42,4 @@ if n == 1:
     vf = (tf*vi)/ti
     print("\n")
     
-    print(" RPTA: ", vf)
+    print(" RPTA: vf es ", vf)
