@@ -13,7 +13,7 @@ print(" PD: la temperatura siempre tienes que transformarlo en 'kelvin'")
 print("\n")
 print(" ELIJE UNA OPCIPÓN")
 print("\n")
-print(" 1. HALLAR EL VOLUMEN (1)")
+print(" 1. HALLAR EL VOLUMEN FINAL (1)")
 print("\n")
 
 n = float(input("introduca el numero: "))
@@ -36,9 +36,7 @@ if n == 1:
     print("\n")
     tf = float(input("INTRODUSCA EL VALOR DE LA TEMPERATURA(f): "))
     print("\n")
-    vf = float(input("INTRODUSCA EL VALOR DEL VOLUMEN(f): "))
-    print("\n")
     
         #FORMULA
-    
-    
+    print(" = ", "(", tf, " x ",vi, ")", " ÷ ", ti)
+    vf = (tf*vi)/ti
