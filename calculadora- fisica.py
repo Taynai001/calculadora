@@ -24,6 +24,21 @@ if n == 1:
     print(" -> K = 'kelvin'")
     print(" -> T = 'temperatura'")
     print(" -> C = 'celcius'")
+    print(" -> i = 'inicial'")
+    print(" -> f = 'final'")
     print("\n")
     print("\t -> Ley de Charles: Si la temperatura sube el volumen sube y viceversa")
-    print("")
+    print("\n")
+    
+    ti = float(input("INTRODUSCA EL VALOR DE LA TEMPERATURA(i): "))
+    print("\n")
+    vi = float(input("INTRODUSCA EL VALOR DEL VOLUMEN(i): "))
+    print("\n")
+    tf = float(input("INTRODUSCA EL VALOR DE LA TEMPERATURA(f): "))
+    print("\n")
+    vf = float(input("INTRODUSCA EL VALOR DEL VOLUMEN(f): "))
+    print("\n")
+    
+        #FORMULA
+    
+    
