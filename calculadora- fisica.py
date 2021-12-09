@@ -38,5 +38,7 @@ if n == 1:
     print("\n")
     
         #FORMULA
-    print(" = ", "(", tf, " x ",vi, ")", " ÷ ", ti)
+    print(" vf = ", "(", tf, " x ",vi, ")", " ÷ ", ti)
     vf = (tf*vi)/ti
+    
+    print(" RPTA: ", vf)
