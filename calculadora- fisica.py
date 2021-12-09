@@ -3,14 +3,17 @@
 import subprocess
 subprocess.run(["clear"])
 
-print("\t LA TERMODINAMICA ")
 print("\n")
-print("-> RECUERDA QUE LA TERMODINAMICA ES ")
-print("PD: la temperatura siempre tienes que transformarlo en 'kelvin'")
+print("\t \t LA TERMODINAMICA ")
 print("\n")
-print("ELIJE UNA OPCION")
+print(" -> RECUERDA QUE LA TERMODINAMICA ES LA RAMA DE LA FÍSICA QUE ESTUDIA LOS EFECTOS DE LOS CAMBIOS DE TEMPERATURA,")
+print(" -> PRESIÓN Y VOLUMEN DE UN SISTEMA FÍSICO")
+print(" PD: la temperatura siempre tienes que transformarlo en 'kelvin'")
 print("\n")
-print("1. HALLAR EL VOLUMEN (1)")
+print(" ELIJE UNA OPCION")
+print("\n")
+print(" 1. HALLAR EL VOLUMEN (1)")
+print("\n")
 
 n = float(input("introduca el numero"))
 
