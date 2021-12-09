@@ -40,5 +40,6 @@ if n == 1:
         #FORMULA
     print(" vf = ", "(", tf, " x ",vi, ")", " ÷ ", ti)
     vf = (tf*vi)/ti
+    print("\n")
     
     print(" RPTA: ", vf)
