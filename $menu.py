@@ -1,5 +1,5 @@
 import subprocess
-subprocess.run[("clear")]
+subprocess.run(["clear"])
 
     #MENU Y TABLA DE OPERACIONES    
 
